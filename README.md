@@ -1403,6 +1403,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Jonathan KOTEY Nikoi](https://github.com/kofilolx)
   - [Jonathan Llemit Jr.](https://github.com/jcljr00)
   - [Jonathan Niklasson Godar](https://github.com/JonathanGodar)
+  - [Jordan Zehner](https://github.com/jojozeze)
   - [Jose Angel Munoz](https://github.com/imjoseangel)
   - [José Henrique Pereira Gomes](https://github.com/josehenriquepg)
   - [Jose Ignacio Munoz](https://github.com/JoseIgnacioMunoz)
